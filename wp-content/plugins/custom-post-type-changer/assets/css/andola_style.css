@@ -1,0 +1,6 @@
+.inline-edit-group.wp-clearfix label.alignleft{width: 100%;}
+.inline-edit-group.wp-clearfix select[name="Post_type"]{text-transform: capitalize;}
+.Post_type_new.column-Post_type_new{text-transform: capitalize;}
+.components-base-control__field .Post_type_detail_block{text-transform: capitalize;}
+
+#post-type-display select{    text-transform: capitalize;}

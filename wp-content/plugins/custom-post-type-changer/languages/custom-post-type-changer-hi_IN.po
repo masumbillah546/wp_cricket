@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Changer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-21 06:21+0000\n"
+"PO-Revision-Date: 2019-08-21 06:25+0000\n"
+"Last-Translator: utkal_hospital <andolasoft.user109@gmail.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.1.1"
+
+#. Description of the plugin
+msgid ""
+"Allow to change the post type in the quick edit and bulk edit section, it "
+"allows you to reassign any post-type to a new post type."
+msgstr ""
+
+#. Author of the plugin
+msgid "Andolasoft"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Post Type Changer"
+msgstr ""
+"\n"
+"कस्टम पोस्ट प्रकार परिवर्तक"
+
+#: Custom-Post-type-changer.php:119 Custom-Post-type-changer.php:156
+msgid "Data is missing."
+msgstr ""
+"\n"
+"डेटा गायब है।"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.andolasoft.com/"
+msgstr ""
+
+#: Custom-Post-type-changer.php:40 Custom-Post-type-changer.php:67
+msgid "Post Type"
+msgstr ""
+"\n"
+"पद प्रकार"
+
+#: Custom-Post-type-changer.php:130
+msgid "Post type has not changed"
+msgstr "पोस्ट प्रकार नहीं बदला है"
